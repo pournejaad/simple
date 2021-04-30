@@ -1,0 +1,17 @@
+body {
+  margin: 3rem 3rem;
+  text-align: center;
+  background-color: bisque;
+  color: red;
+}
+h1 {
+  border: 3px solid green;
+}
+#btn {
+  background-color: blueviolet;
+  color: white;
+  width: 4rem;
+  height: 2rem;
+  font-family: sans-serif;
+  font-size: large;
+}
